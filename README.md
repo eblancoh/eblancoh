@@ -1,7 +1,5 @@
 ### Hi there <img align='center' src="https://media.giphy.com/media/mnFNB5IIabdgVve3zb/giphy.gif" width="50">
 
-<!--
-**eblancoh/eblancoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h3 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="49px"> </h3>
 <p align = 'left'>
@@ -16,5 +14,5 @@
 ## My GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eblancoh&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
-</br>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eblancoh&langs_count=8&layout=compact&theme=dark" />
